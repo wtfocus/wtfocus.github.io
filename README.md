@@ -3,10 +3,6 @@
 -   记录作者的一些学习、思考与总结，并在此进行整理、分享。
 -   [我的 github](https://github.com/wtfocus/wtfocus.github.io)
 
-### 程序人生
-
--   
-
 ### 学习笔记
 
 #### Java
@@ -17,4 +13,12 @@
 #### DB
 
 -   [MySQL 实战 45 讲](https://github.com/wtfocus/geek-architecture-notes/tree/master/MySQL%E5%AE%9E%E6%88%98%2045%20%E8%AE%B2)
+
+### 工作汇总
+
+-   
+
+### 程序人生
+
+-   
 
