@@ -16,5 +16,5 @@
 
 #### DB
 
--   [MySQL 实战 45 讲](https://github.com/wtfocus/geek-architecture-notes/tree/master/MySQL实战 45 讲)
+-   [MySQL 实战 45 讲](https://github.com/wtfocus/geek-architecture-notes/tree/master/MySQL%E5%AE%9E%E6%88%98%2045%20%E8%AE%B2)
 
