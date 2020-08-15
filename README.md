@@ -6,7 +6,7 @@
 
 ### 学习笔记
 
--   下面笔记均为我在 [极客时间](https://time.geekbang.org/) 学习随笔。
+-   如下笔记，均为我在 [极客时间](https://time.geekbang.org/) 学习随笔。
 
 #### Java
 
