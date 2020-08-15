@@ -1,9 +1,12 @@
 ## 导航
 
 -   记录作者的一些学习、思考与总结，并在此进行整理、分享。
+-   如有疑问，欢迎在 [我的 Issues](https://github.com/wtfocus/wtfocus.github.io/issues) 中交流、指正。
 -   [我的 github](https://github.com/wtfocus/wtfocus.github.io)
 
 ### 学习笔记
+
+-   下面笔记均为我在 [极客时间](https://time.geekbang.org/) 学习随笔。
 
 #### Java
 
