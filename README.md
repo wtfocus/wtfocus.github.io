@@ -43,6 +43,7 @@
 ### 日常汇总
 
 -   [CorePython](https://github.com/wtfocus/work-summary/tree/master/CorePython)
+-   [CoreJava](https://github.com/wtfocus/work-summary/tree/master/CoreJava)
 -   [develop-guide](https://github.com/wtfocus/work-summary/tree/master/develop-guide)
 -   [Git](https://github.com/wtfocus/work-summary/tree/master/Git)
 
