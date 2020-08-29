@@ -40,7 +40,7 @@
 -   [网络编程实战](https://github.com/wtfocus/geek-concurrent-notes/tree/master/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98)
 -   [高并发系统设计 40 问](https://github.com/wtfocus/geek-concurrent-notes/tree/master/%E9%AB%98%E5%B9%B6%E5%8F%91%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A140%E9%97%AE)
 
-### 工作汇总
+### 日常汇总
 
 -   [CorePython](https://github.com/wtfocus/work-summary/tree/master/CorePython)
 -   [develop-guide](https://github.com/wtfocus/work-summary/tree/master/develop-guide)
