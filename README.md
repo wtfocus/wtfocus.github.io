@@ -42,7 +42,9 @@
 
 ### 工作汇总
 
--   
+-   [CorePython](https://github.com/wtfocus/work-summary/tree/master/CorePython)
+-   [develop-guide](https://github.com/wtfocus/work-summary/tree/master/develop-guide)
+-   [Git](https://github.com/wtfocus/work-summary/tree/master/Git)
 
 ### 程序人生
 
