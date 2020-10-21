@@ -35,6 +35,10 @@
 -   [数据结构与算法之美](https://github.com/wtfocus/geek-notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E)
 -   [程序员的数学基础课](https://github.com/wtfocus/geek-notes/tree/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE)
 
+#### 基本功
+
+-   [10x程序员工作法](https://github.com/wtfocus/geek-basic-notes/tree/master/10x%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E6%B3%95)
+
 #### 其他
 
 -   [网络编程实战](https://github.com/wtfocus/geek-concurrent-notes/tree/master/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98)
