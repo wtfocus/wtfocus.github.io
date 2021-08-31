@@ -11,8 +11,8 @@
 #### 基本功
 
 -   [10x程序员工作法](https://github.com/wtfocus/geek-basic-notes/tree/master/10x%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E6%B3%95)
--   [软件设计之美](https://github.com/wtfocus/geek-basic-notes/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B9%8B%E7%BE%8E)
--   [数据结构与算法之美](https://github.com/wtfocus/geek-basic-notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E)
+-   [软件设计之美（更新中）](https://github.com/wtfocus/geek-basic-notes/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B9%8B%E7%BE%8E)
+-   [数据结构与算法之美（已完结）](https://github.com/wtfocus/geek-basic-notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E)
 -   [程序员的数学基础课](https://github.com/wtfocus/geek-notes/tree/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE)
 
 #### Java
@@ -31,10 +31,10 @@
 
 #### 架构
 
--   [设计模式之美](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%BE%8E)
--   [后端技术面试 38 讲](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%2038%20%E8%AE%B2)
--   [分布式技术原理与算法解析](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%97%E6%B3%95%E8%A7%A3%E6%9E%90)
--   [消息队列高手课](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E9%AB%98%E6%89%8B%E8%AF%BE)
+-   [设计模式之美（优化更新中）](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%BE%8E)
+-   [后端技术面试 38 讲（已完结）](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%2038%20%E8%AE%B2)
+-   [分布式技术原理与算法解析（已完结）](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%97%E6%B3%95%E8%A7%A3%E6%9E%90)
+-   [消息队列高手课（已完结）](https://github.com/wtfocus/geek-architecture-notes/tree/master/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E9%AB%98%E6%89%8B%E8%AF%BE)
 -   [许式伟的架构课](https://github.com/wtfocus/geek-notes/tree/master/%E8%AE%B8%E5%BC%8F%E4%BC%9F%E7%9A%84%E6%9E%B6%E6%9E%84%E8%AF%BE)
 
 #### 其他
