@@ -22,6 +22,10 @@
 -   [Java 并发编程实战](https://github.com/wtfocus/geek-java-notes/tree/master/Java%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98)
 -   [Java 进阶训练营](https://github.com/wtfocus/geek-java-notes/blob/master/Java%20%E8%AE%AD%E7%BB%83%E8%90%A5/README.md)
 
+#### Go
+
+-   [Go 语言从入门到实战](https://github.com/wtfocus/geek-go-notes/tree/main/Go%20%E8%AF%AD%E8%A8%80%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98)
+
 #### Python
 
 -   [Python 核心技术与实战](https://github.com/wtfocus/geek-notes/tree/master/Python%20%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98)
@@ -49,8 +53,3 @@
 -   [CoreJava](https://github.com/wtfocus/work-summary/tree/master/CoreJava)
 -   [develop-guide](https://github.com/wtfocus/work-summary/tree/master/develop-guide)
 -   [Git](https://github.com/wtfocus/work-summary/tree/master/Git)
-
-### 程序人生
-
--   [个人技术体系](https://github.com/wtfocus/work-summary/blob/master/%E4%B8%AA%E4%BA%BA%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB.md)
-
