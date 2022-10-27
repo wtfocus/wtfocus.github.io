@@ -25,6 +25,7 @@
 #### Go
 
 -   [Go 语言从入门到实战](https://github.com/wtfocus/geek-go-notes/tree/main/Go%20%E8%AF%AD%E8%A8%80%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98)
+-   [Go 语言核心 36 讲](https://github.com/wtfocus/geek-go-notes/blob/main/Go%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2/README.md)
 
 #### Python
 
