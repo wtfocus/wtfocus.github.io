@@ -12,7 +12,7 @@
 
 -   [10x程序员工作法](https://github.com/wtfocus/geek-basic-notes/tree/master/10x%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E6%B3%95)
 -   [软件设计之美（更新中）](https://github.com/wtfocus/geek-basic-notes/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B9%8B%E7%BE%8E)
--   [数据结构与算法之美（已完结）](https://github.com/wtfocus/geek-basic-notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E)
+-   [数据结构与算法之美（已完结）](https://github.com/wtfocus/geek-basic-notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E#readme)
 -   [程序员的数学基础课](https://github.com/wtfocus/geek-notes/tree/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE)
 
 #### Java
