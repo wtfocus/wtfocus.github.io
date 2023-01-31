@@ -6,8 +6,13 @@
 
 ### 学习笔记
 
--   如下笔记，均为我在 [极客时间](https://time.geekbang.org/) 学习随笔。
+-   如下笔记，均为我在 [极客时间](https://time.geekbang.org/) 学习笔记。
 
+#### 管理/成长
+
+-   [如何成为学习高手（已完结）]()
+-   [面试现场]()
+-   [朱赟的技术管理课（已完结）]()
 #### 基本功
 
 -   [10x程序员工作法](https://github.com/wtfocus/geek-basic-notes/tree/master/10x%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E6%B3%95)
